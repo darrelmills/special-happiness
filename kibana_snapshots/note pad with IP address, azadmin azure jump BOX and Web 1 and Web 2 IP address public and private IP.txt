@@ -1,0 +1,69 @@
+case number # 1019260869      3/16/2021
+Jump-Box-Provisioner
+Public IP address 13.68.185.62
+Private IP address 10.1.0.4
+
+Web - 1 
+Public IP address 52.152.236.91
+Private IP 10.1.0.5
+
+Web - 2 
+Public IP address 
+Private IP address 10.1.0.6
+
+Your IP Address is 136.32.163.203
+
+
+
+
+ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/darre/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/darre/.ssh/id_rsa
+Your public key has been saved in /c/Users/darre/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:uirJsdvacAkFptRzWSucyHvIMgNIeLHsqYYGBciwe6g darre@DESKTOP-DUBP0TI
+The key's randomart image is:
++---[RSA 3072]----+
+|Bo=.  o.         |
+|*Bo=oo. .        |
+|=.+o++ .         |
+|.=.oo .          |
+|++=+ .  S        |
+|+o=... .         |
+|E+.+o .          |
+|o ==   .         |
+|  o++..          |
++----[SHA256]-----+
+
+$ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7L8LRUrNa5hX4f3rH5Uth/rM7OfIYadMlYAgFwOcxqq/u7b45KlHFr2gHoO4FunIfMKaPPq6ApXhI89j7t+7a7Bx0a2FIM895/dBelfG2bK1cmc6jic2dYwJbI4u5tPXi9ql/p9rQyzBHW/yNX49pOpsvTpALLY/sV2X9CDJ4aMqkUYpAKRVaixP+LQ5tfRIR2j0s8/IaOPlcDOMeoyDlW9oHWOMyujlzbyKM1gjNUGCyOtNaUfsSQFa6QmSVwxlukuarFNLvquJjDtsCDbw2ic/A83TxGbwTtH1GwBG+ev6afbjQgfMPx8K+Y4FPAlkKH/UxBj2HpV9ZoiDExxklJmKfCiCrsQvnhpFtMKDDqgdxV0zYUQ74kLvpeLAs8TdQd9Cu1AcqJ7JUPj5ZJoad3llO+1/GAUIgmCMI8H6ABkPQQ/EtGdGLkAf8V1wioNQV0lc+KMGPlHzuEFgYuIZe9JEzekXyQ+ZkFTjRb8kR9PYdkSojVFQqS6w+Nfu+0VU= darre@DESKTOP-DUBP0TI
+
+VM's vm = security group NICFirewallNSG
+Jump-Box-Provisioner
+Region"  (US)East US  
+client healthcare
+security group NIC FirewallNSG healthcare
+Name: virtualnetworks 
+Network Security Group
+name: RedrteamSg   =NSG Firewallnsg
+__________________________________________________________________________________
+
+
+my Ipv4 address 2605:a601:afda:ea00:3cb2:72a0:d9f4:3155
+curl icanhazip.com
+104.215.98.203
+VM IP address 20.185.197.94
+ssh azadmin@20.185.197.94
+Subscription ID
+4b5c188d-4ba3-43b7-974e-37aa9c68c1f2
+ sudo systemctl start docker
+
+google : docs.microsoft.com 
+
+
+clean up Linux
+
+
