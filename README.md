@@ -19,4 +19,5 @@
 🌎🌎  You are able to reach me at: ... [email](darrelmills17@yahoo.com)🌏🌏
 ###
 🏰    I have completed setting up my Github account and submitted the HTTP URL into the BootCamp_spot.🏰
-###
+###   Wow!! Just submitted my second project to the Bootcamp Spot and will upload it my repository  ###
+
